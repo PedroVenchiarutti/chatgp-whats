@@ -1,0 +1,10 @@
+2023/01/31-12:30:55.775 8403 Reusing MANIFEST /Users/clear/Documents/Pedro/Cursos/Typescript/zap-gpt/src/tokens/Chat-GPT/Default/Local Storage/leveldb/MANIFEST-000001
+2023/01/31-12:30:55.775 8403 Recovering log #4
+2023/01/31-12:30:55.775 8403 (ignoring error) /Users/clear/Documents/Pedro/Cursos/Typescript/zap-gpt/src/tokens/Chat-GPT/Default/Local Storage/leveldb/000004.log: dropping 12341 bytes; Corruption: checksum mismatch
+2023/01/31-12:30:55.775 8403 (ignoring error) /Users/clear/Documents/Pedro/Cursos/Typescript/zap-gpt/src/tokens/Chat-GPT/Default/Local Storage/leveldb/000004.log: dropping 1729 bytes; Corruption: missing start of fragmented record(2)
+2023/01/31-12:30:55.775 8403 (ignoring error) /Users/clear/Documents/Pedro/Cursos/Typescript/zap-gpt/src/tokens/Chat-GPT/Default/Local Storage/leveldb/000004.log: dropping 2998 bytes; Corruption: checksum mismatch
+2023/01/31-12:30:55.775 8403 (ignoring error) /Users/clear/Documents/Pedro/Cursos/Typescript/zap-gpt/src/tokens/Chat-GPT/Default/Local Storage/leveldb/000004.log: dropping 47 bytes; Corruption: missing start of fragmented record(2)
+2023/01/31-12:30:55.775 8403 Reusing old log /Users/clear/Documents/Pedro/Cursos/Typescript/zap-gpt/src/tokens/Chat-GPT/Default/Local Storage/leveldb/000004.log 
+2023/01/31-12:39:55.847 8a03 Level-0 table #7: started
+2023/01/31-12:39:55.854 8a03 Level-0 table #7: 11574 bytes OK
+2023/01/31-12:39:55.865 8a03 Delete type=0 #4
